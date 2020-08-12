@@ -1,0 +1,9 @@
+
+Pseudo-code:
+while(start != end) do
+move Right
+if(Is_Next_Block_Bomb) then
+move Down
+move Down
+end-if
+end-while
